@@ -1,0 +1,41 @@
+# Docker Mini Project
+
+This is my frist Docker mini porject using Nginx 🚀
+
+## Dockerfile
+
+FROM nginx:latest
+
+COPY index.html /usr/share/nginx/html/index.html
+
+---
+
+## index.html
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Rahul DevOps</title>
+</head>
+<body>
+  <h1>Hello from Docker 🚀</h1>
+  <p>My first nginx conatiner project.</p>
+</body>
+</html>
+
+---
+
+## Commands Used
+
+docker build -t my-nginx .
+
+docker run -d -p 8080:80 my-nginx
+
+---
+
+## Learnings
+
+- Learned basic Dockerfile
+- Understtod how nginx conatiner works
+- Learned port mapping
+- Docker makes app deploument easier
