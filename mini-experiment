@@ -12,3 +12,33 @@ This is a beginner Docker project.
 - Docker Containers
 - Basic Docker Commands
 - Containerization
+# Docker Basic Project 🐳
+
+This is a beginner Docker project.
+
+
+## Commands Used
+
+```bash
+docker pull nginx
+```
+
+```bash
+docker run -d -p 8080:80 nginx
+```
+
+## Output
+
+Opened in browser:
+
+```txt
+http://localhost:8080
+```
+
+Nginx web server started successfully inside Docker container.
+
+## Technologies
+
+- Docker
+- Linux
+- Nginx
