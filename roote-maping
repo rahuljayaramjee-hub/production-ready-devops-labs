@@ -9,3 +9,14 @@ docker run -d -p 8080:80 nginx
 
 8080 = local machine port  
 80 = conatiner port
+After running this command:
+http://localhost:8080
+
+opens nginx webpage.
+
+## Learnings
+
+- Learned basic port mapping
+- Understood how browser connects to conatiner
+- Docker helps in app deploument
+- Containers isolate applications
