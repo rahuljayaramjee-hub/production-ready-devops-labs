@@ -3,3 +3,9 @@
 ## What I learned
 
 Docker port mapping is used to access conatiners from browser.
+Example:
+
+docker run -d -p 8080:80 nginx
+
+8080 = local machine port  
+80 = conatiner port
