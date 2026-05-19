@@ -35,7 +35,7 @@ Opened in browser:
 http://localhost:8080
 ```
 
-Nginx web server started successfully inside Docker container.
+Nginx web server started successfully inside Docker 
 
 ## Technologies
 
