@@ -35,3 +35,14 @@ kubectl describe pod nginx-pod
 - Container deployment
 
 ---
+
+## Technologies Used
+
+- Kubernetes
+- kubectl
+- Nginx
+- Linux
+
+## Goal
+
+Learning Kubernetes fundamentals for DevOps and Cloud Engineering.
