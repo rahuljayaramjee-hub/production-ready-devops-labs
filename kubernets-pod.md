@@ -26,3 +26,12 @@ kubectl apply -f pod.yaml
 kubectl get pods
 kubectl describe pod nginx-pod
 ```
+
+## Skills Learned
+
+- Kubernetes Pod creation
+- YAML configuration
+- kubectl basic commands
+- Container deployment
+
+---
