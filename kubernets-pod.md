@@ -19,3 +19,10 @@ spec:
       ports:
         - containerPort: 80
 ```
+## Commands Used
+
+```bash
+kubectl apply -f pod.yaml
+kubectl get pods
+kubectl describe pod nginx-pod
+```
