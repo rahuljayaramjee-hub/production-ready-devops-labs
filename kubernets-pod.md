@@ -46,3 +46,4 @@ kubectl describe pod nginx-pod
 ## Goal
 
 Learning Kubernetes fundamentals for DevOps and Cloud Engineering.
+this is the production level
