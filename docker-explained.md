@@ -20,3 +20,20 @@ docker pull nginx
 ```
 
 ---
+
+
+## Run Docker Container
+
+```bash
+docker run -d -p 8080:80 nginx
+```
+
+---
+
+## Check Running Containers
+
+```bash
+docker ps
+```
+
+---
