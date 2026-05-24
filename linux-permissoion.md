@@ -10,3 +10,10 @@ Linux file permissions control who can read, write, and execute files or directo
 ```bash
 ls -l
 ```
+Example Output:
+
+```bash
+-rwxr-xr-- file.txt
+```
+
+---
