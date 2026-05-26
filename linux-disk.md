@@ -27,3 +27,17 @@ du -sh Downloads/
 - -h → Human readable
 
 ---
+
+
+## View Mounted Disks
+
+```bash
+lsblk
+```
+
+This shows storage devices and partitions.
+
+---
+
+## Conclusion
+Disk management commands are important for Linux administration, troubleshooting, and DevOps operations
