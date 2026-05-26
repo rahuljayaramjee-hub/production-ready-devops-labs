@@ -22,8 +22,8 @@ df -h
 du -sh Downloads/
 ```
 
-- `du` → Disk usage
-- `-s` → Summary
-- `-h` → Human readable
+- du → Disk usage
+- -s → Summary
+- -h → Human readable
 
 ---
