@@ -15,3 +15,15 @@ df -h
 - `-h` → Human readable format
 
 ---
+
+## Check Folder Size
+
+```bash
+du -sh Downloads/
+```
+
+- `du` → Disk usage
+- `-s` → Summary
+- `-h` → Human readable
+
+---
