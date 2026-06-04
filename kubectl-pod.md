@@ -21,3 +21,12 @@ spec:
 ```
 
 Pods are the basic building blocks of applications running in a Kubernetes cluster.
+
+  ---
+
+
+  # Kubernetes Services
+
+A Service in Kubernetes provides a stable network endpoint to access Pods. It helps applications communicate reliably even when Pods are created or deleted.
+
+Services enable load balancing and service discovery within a Kubernetes cluster.
