@@ -24,6 +24,14 @@ Pods are the basic building blocks of applications running in a Kubernetes clust
 
   ---
 
+  ---
+
+  # YAML in Kubernetes
+
+YAML (YAML Ain't Markup Language) is a human-readable format used to define Kubernetes resources such as Pods, Services, and Deployments.
+
+YAML files describe the desired state of an application, which Kubernetes uses to create and manage resources automatically.
+
 
   # Kubernetes Services
 
