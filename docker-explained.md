@@ -32,6 +32,16 @@ docker run -d -p 8080:80 nginx
 
 ## Check Running Containers
 
+
+---
+
+
+# Docker Containers
+
+A Docker container is a lightweight and portable package that includes an application and all its dependencies. Containers help ensure that applications run consistently across different environments.
+
+Docker containers are widely used for application deployment, testing, and development.
+
 ```bash
 docker ps
 ```
