@@ -47,3 +47,19 @@ kubectl describe pod nginx-pod
 
 Learning Kubernetes fundamentals for DevOps and Cloud Engineering.
 this is the production level
+
+
+---
+
+# Pod Lifecycle
+
+A Pod goes through different phases during its lifecycle in Kubernetes.
+
+## Phases
+- **Pending** – Pod is being created.
+- **Running** – Containers are running successfully.
+- **Succeeded** – Task completed successfully.
+- **Failed** – One or more containers failed.
+- **Unknown** – Kubernetes cannot determine the Pod status.
+
+Understanding Pod lifecycle phases helps in monitoring and troubleshooting applications in a Kubernetes cluster.
