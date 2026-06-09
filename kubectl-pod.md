@@ -38,3 +38,12 @@ YAML files describe the desired state of an application, which Kubernetes uses t
 A Service in Kubernetes provides a stable network endpoint to access Pods. It helps applications communicate reliably even when Pods are created or deleted.
 
 Services enable load balancing and service discovery within a Kubernetes cluster.
+
+---
+
+
+# Kubernetes Deployments
+
+A Deployment is a Kubernetes resource used to manage and scale Pods. It ensures the desired number of Pods are running and automatically replaces failed Pods.
+
+Deployments make application updates and scaling easier in a Kubernetes cluster.
