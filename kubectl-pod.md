@@ -47,3 +47,14 @@ Services enable load balancing and service discovery within a Kubernetes cluster
 A Deployment is a Kubernetes resource used to manage and scale Pods. It ensures the desired number of Pods are running and automatically replaces failed Pods.
 
 Deployments make application updates and scaling easier in a Kubernetes cluster.
+
+
+
+---
+
+
+# Kubernetes Namespaces
+
+A Namespace is a way to organize and isolate resources within a Kubernetes cluster. It helps teams manage applications and avoid resource conflicts.
+
+Namespaces improve resource management and provide logical separation between environments such as development, testing, and production.
