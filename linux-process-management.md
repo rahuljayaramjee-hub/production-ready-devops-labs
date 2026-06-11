@@ -53,6 +53,14 @@ kill -9 <PID>
 pidof nginx
 ```
 
+
+
+# Linux Processes
+
+A process is a running instance of a program in Linux. Each process has a unique Process ID (PID) used for identification and management.
+
+Linux provides commands such as `ps`, `top`, and `kill` to monitor and control processes.
+
 This returns the process ID of nginx service.
 
 ---
