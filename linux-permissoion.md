@@ -17,3 +17,8 @@ Example Output:
 ```
 
 ---
+# Linux File Permissions
+
+Linux file permissions control who can read, write, and execute files and directories.
+
+Permissions are assigned to three groups: Owner, Group, and Others, helping secure system resources and data.
