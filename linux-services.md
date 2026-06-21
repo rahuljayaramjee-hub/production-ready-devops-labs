@@ -7,3 +7,13 @@ A service is a program that runs in the background and performs specific tasks f
 - SSH – Remote access
 - Nginx – Web server
 - Docker – Container platform
+
+---
+## Useful Commands
+
+```bash
+systemctl status nginx
+systemctl start nginx
+systemctl stop nginx
+systemctl restart nginx
+```
